@@ -27,7 +27,6 @@
 
 I'm a passionate Software Engineering graduate from Sri Lanka with an interest in building reliable, scalable, and user-friendly software solutions.
 
-- 🔭 Currently working on **HireIntel**
 - 🧪 Interested in Software Quality Assurance and Software Testing
 - 🌱 Currently learning **Java**
 - 🤖 Exploring Artificial Intelligence and automation
